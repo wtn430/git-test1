@@ -8,4 +8,8 @@ public class GitDemo {
         System.out.println("33333");
 
     }
+
+    public void test(){
+        System.out.println("1234");
+    }
 }
